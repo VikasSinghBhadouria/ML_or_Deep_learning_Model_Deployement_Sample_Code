@@ -1,4 +1,4 @@
-# ML Model_Deployement_Sample_Code
+# ML_or_Deep_learning_Model_Deployement_Sample_Code
  Standard Python Code for Model deployment using Flask with multiple endpoints.
  
 This Script contains all the compnenets to delpoy your 
